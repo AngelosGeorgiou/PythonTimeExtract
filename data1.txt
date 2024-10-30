@@ -1,0 +1,56 @@
+Self_Notes_2024-10-28 15:32 - [16:02] 16:07
+
+Συνεχίζω με το τελευταίο tutorial για blockchain. Καλύτερα σήμερα να ασχοληθώ κυρίως με NFT τζιαι να ξαναδώ καλύτερα για Ethereum.
+Στην ουσία να προετοιμαστώ όσο καλύτερα μπόρω.
+Οπότε 3 parts για σήμερα.
+============
+		1. Τελειώνω με Ethereum YT tutorial 👈 ✔
+
+		2. Βλέπω ότι υπάρχει σχετικό με NFT τζιαι Ethereum Blockhcain basics 👈
+
+		3. Σημειώνω το τι θέλω να συζητήσω αύριο (10') 👈 ✔
+============
+
+Truffle Migrations Deep Dive
+https://www.youtube.com/watch?v=esWNE9IzqVo&list=PL6gx4Cwl9DGBrtymuJUiv9Lq5CAYpN8Gl&index=11
+
+Ως τα 4μιση λεπτά έφτασα, εν ήταν up to date.
+Ίσως χρειαστεί να δω κάτι πιο καινούργιο.
+See you σε κανένα 20λεπτο.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Thesis_Notes_2024-10-28 16:28 - [17:15] 17:17
+
+Continue with tutorial.
+
+Finished tutorial. It focused on how to migrate and how to pass changes.
+I think I need more content to be more familiar.
+Continueing on NFT specific
+
+Not enough info on this.
+I will try to look for more from developers side
+
+This seems promising
+https://docs.alchemy.com/docs/how-to-create-an-nft
+
+Let's have another session
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+Thesis_Notes_2024-10-28 23:27 - [00:00] 23:57
+
+Prepare for 2nd meeting with VV.
+
+Queries to be asked:
+
+- Τι ακριβώς πραγματεύεται η εργασία;
+- Ανάθεση διπλωματικής
+- Καθορισμός τρόπου επικοινωνίας
+- Πότε μπορούμε να τελειώσει αν υπολογίσουμε 10-15 ώρες την εβδομάδα;
+- Είμαι θετικός για paper αρκεί να έχω εξασφαλίσει ότι ετέλειωσα με τις υποχρεώσεις της διπλωματικής.
+- Τι να ακολουθήσω για την σύνταξη της διπλωματικής; Μπορώ να βρω οδηγούς ή να δω παλιές διπλωματικές.
+
+
+Nft related - Good start for NFT solidity development
+https://www.youtube.com/watch?v=ZH_7nEIJDUY
