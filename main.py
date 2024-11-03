@@ -93,9 +93,10 @@ def print_time_log(time_log, filename):
             total_week_minutes = total_week.total_seconds() % 3600 // 60
             print(f"From {start_date} to {date} : {int(total_week_hours)}h {int(total_week_minutes)}m")
             total_week = datetime.timedelta(0)
-    total_week_hours =  total_week.total_seconds() // 3600
-    total_week_minutes = total_week.total_seconds() % 3600 // 60
-    print(f"From {start_date} to {date} : {int(total_week_hours)}h {int(total_week_minutes)}m")
+    if week_index != 0:
+        total_week_hours =  total_week.total_seconds() // 3600
+        total_week_minutes = total_week.total_seconds() % 3600 // 60
+        print(f"From {start_date} to {date} : {int(total_week_hours)}h {int(total_week_minutes)}m")
 
     print(f"Total time: {int(total.total_seconds() // 3600)}h {int(total.total_seconds() % 3600 // 60)}m")
 
